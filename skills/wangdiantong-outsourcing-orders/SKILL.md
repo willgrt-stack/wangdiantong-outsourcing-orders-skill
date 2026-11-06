@@ -65,4 +65,4 @@ Prefer running via **Will's Mac Chrome** Workbench when the bot box browser cann
 审核 / 客审 / 强制审核 / 强制通过 change live ERP data — confirm with the user before production runs. Demo quantities and dates are examples; do not reuse unless asked.
 
 ## Related
-Product master: 旺店通货品档案（Grok Bot skill `skill-1793840180995`）。
+Product master: [旺店通货品档案](../wangdiantong-product-archive/SKILL.md)。
